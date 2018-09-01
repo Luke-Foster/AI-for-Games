@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ActivateTrigger" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAgIAIAAAAAAgAAAAAAAARAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CombineChildren" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Standard Assets\Scripts\Utility Scripts\CombineChildren.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MeshCombineUtility" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAgAAQAAAAAABAAEAAAA=</HashCode>
+      <FileName>Assets\Standard Assets\Scripts\Utility Scripts\MeshCombineUtility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

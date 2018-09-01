@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Task 3 Weapons System.unity
+  isLoaded: 1
+  isActive: 1

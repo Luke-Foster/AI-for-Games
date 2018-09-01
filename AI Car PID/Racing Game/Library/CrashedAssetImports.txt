@@ -1,0 +1,1 @@
+Assets/Vehicle Physics Toolkit v1.4/CarModels/Car/Poche_999_CT2/Textures/CarPaint_1.tga

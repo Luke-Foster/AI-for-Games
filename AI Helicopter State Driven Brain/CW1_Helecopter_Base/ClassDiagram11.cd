@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="FSM&lt;T&gt;" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAgAAAAAAAAAIAAAgCAAAAQAAAIEAAAAAAAAKAA=</HashCode>
+      <FileName>Assets\Scripts\FSM\FSM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="State&lt;T&gt;">
+    <Position X="5" Y="0.5" Width="5.75" />
+    <TypeIdentifier>
+      <HashCode>AUAAAAAAgAAAAAEEAACAQJAAQAAAAGIBgIAABAMABEg=</HashCode>
+      <FileName>Assets\Scripts\FSM\State.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Transition&lt;T&gt;" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAQAAACAAAACACEAAAAAAAAACA=</HashCode>
+      <FileName>Assets\Scripts\FSM\Transition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlightController" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAQAAAACAAAAEAABABAEABAEBAAgCAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PT1_Scripts\FlightController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Forward&lt;T&gt;" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEg=</HashCode>
+      <FileName>Assets\Scripts\PT1_Scripts\Forward.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hover&lt;T&gt;" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEg=</HashCode>
+      <FileName>Assets\Scripts\PT1_Scripts\Hover.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Idle&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\PT1_Scripts\Idle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Land&lt;T&gt;" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAIAAAAAAAEg=</HashCode>
+      <FileName>Assets\Scripts\PT1_Scripts\Land.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TakeOff&lt;T&gt;" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEg=</HashCode>
+      <FileName>Assets\Scripts\PT1_Scripts\TakeOff.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

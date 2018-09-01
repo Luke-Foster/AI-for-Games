@@ -1,0 +1,22 @@
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\Temp\bin\Debug\Assembly-CSharp.dll
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\Temp\bin\Debug\UnityEditor.dll
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\Temp\bin\Debug\UnityEngine.dll
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\Temp\bin\Debug\Mono.Cecil.dll
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\Temp\bin\Debug\nunit.framework.dll
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\obj\Debug\Assembly-CSharp.dll
+C:\BNU\modules\Unity\Practical Games\CW3_Helecopter\obj\Debug\Assembly-CSharp.pdb
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\Temp\bin\Debug\Assembly-CSharp.dll
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\Temp\bin\Debug\Assembly-UnityScript-firstpass.dll
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\Temp\bin\Debug\UnityEditor.dll
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\Temp\bin\Debug\UnityEngine.dll
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\Temp\bin\Debug\Mono.Cecil.dll
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\Temp\bin\Debug\nunit.framework.dll
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\obj\Debug\Assembly-CSharp.dll
+C:\BNU\Modules\CO562\CourseWork\2013-2014\CW3_Helecopter_Solution\obj\Debug\Assembly-CSharp.pdb
